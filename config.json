@@ -1,0 +1,14 @@
+{
+    "BOT_TOKEN": "PUT_YOUR_TOKEN_HERE",
+    "MIN_WITHDRAW": 1,
+    "TASKS": {
+        "visit_site": {
+            "time_seconds": 15,
+            "reward": 0.05
+        },
+        "watch_video": {
+            "time_seconds": 30,
+            "reward": 0.10
+        }
+    }
+}
